@@ -1,5 +1,7 @@
 Welcome to Determined AI documentation!
-===================================
+=======================================
+
+v 1.0.x
 
 Determined AI is the fastest and easiest way to build deep learning models.
 
