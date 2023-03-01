@@ -30,11 +30,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
-
-#import better
-#html_theme = 'better'
-#html_theme_path = [better.better_theme_path]
+#html_theme = 'sphinx_rtd_theme'
+html_theme = "furo"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
