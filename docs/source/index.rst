@@ -1,17 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to Determined AI documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Determined AI is the fastest and easiest way to build deep learning models.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project represents an alpha test of myst-sphinx docs.
 
 Contents
 --------
