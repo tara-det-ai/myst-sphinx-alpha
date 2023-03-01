@@ -32,9 +32,9 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-import better
-html_theme = 'better'
-html_theme_path = [better.better_theme_path]
+#import better
+#html_theme = 'better'
+#html_theme_path = [better.better_theme_path]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
