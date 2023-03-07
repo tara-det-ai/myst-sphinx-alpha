@@ -1,5 +1,5 @@
 """
-Determined AI Docs - We can do anything. We can even apply a new theme to our sphinx docs.
+Lumache - Python library for cooks and food lovers.
 """
 
 __version__ = "0.1.0"
